@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋  
+---                 
+### About Me
+- 🔭 I’m currently working with .NET Core, SQL Server, & Angular at my work.
+- 👯 I’m contributing to [Community Platform](https://platform.onearmy.earth/), a ReactJS, TypeScript & Google Firebase app to help connect individuals who want to work together to tackle global environmental problems.
+- 🌱 I'm currently learning about patterns and system designs to keep code SOLID and DRY.
+- 💬 Ask me about my scales and chords visual teaching app, [Key Easy](https://github.com/Robert-LC/KeyEasy) 🎹
+-  👨‍🎓 Favorite Quote: "A true master is an eternal student" -Master Yi
+---
+ 
+### Languages & Tools
 
-<!--
-**Robert-LC/Robert-LC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional Experience: C#, .NET, SQL Server, JavaScript, Angular, XUnit, Jasmine
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I use in my personal projects and open source contributions: TypeScript, React, NextJS, Google Firebase, Jest, Cypress
